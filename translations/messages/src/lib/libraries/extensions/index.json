@@ -1,0 +1,137 @@
+[
+  {
+    "id": "gui.extension.music.name",
+    "description": "Name for the 'Music' extension",
+    "defaultMessage": "Music"
+  },
+  {
+    "id": "gui.extension.music.description",
+    "description": "Description for the 'Music' extension",
+    "defaultMessage": "Play instruments and drums."
+  },
+  {
+    "id": "gui.extension.pen.name",
+    "description": "Name for the 'Pen' extension",
+    "defaultMessage": "Pen"
+  },
+  {
+    "id": "gui.extension.pen.description",
+    "description": "Description for the 'Pen' extension",
+    "defaultMessage": "Draw with your sprites."
+  },
+  {
+    "id": "gui.extension.videosensing.name",
+    "description": "Name for the 'Video Sensing' extension",
+    "defaultMessage": "Video Sensing"
+  },
+  {
+    "id": "gui.extension.videosensing.description",
+    "description": "Description for the 'Video Sensing' extension",
+    "defaultMessage": "Sense motion with the camera."
+  },
+  {
+    "id": "gui.extension.text2speech.name",
+    "description": "Name for the Text to Speech extension",
+    "defaultMessage": "Text to Speech"
+  },
+  {
+    "id": "gui.extension.text2speech.description",
+    "description": "Description for the Text to speech extension",
+    "defaultMessage": "Make your projects talk."
+  },
+  {
+    "id": "gui.extension.translate.name",
+    "description": "Name for the Translate extension",
+    "defaultMessage": "Translate"
+  },
+  {
+    "id": "gui.extension.translate.description",
+    "description": "Description for the Translate extension",
+    "defaultMessage": "Translate text into many languages."
+  },
+  {
+    "id": "gui.extension.PingPongAutoCar.name",
+    "description": "Name for the PingPongAutoCar extension",
+    "defaultMessage": "PingPong Auto Car"
+  },
+  {
+    "id": "gui.extension.PingPongAutoCar.description",
+    "description": "Description for the 'Auto Car' extension",
+    "defaultMessage": "Programming Auto Car"
+  },
+  {
+    "id": "gui.extension.PingPong.connectingMessage",
+    "description": "Message to help people connect to PingPong.",
+    "defaultMessage": "Connecting..."
+  },
+  {
+    "id": "gui.extension.PingPongWormBot.name",
+    "description": "Name for the PingPongWormBot extension",
+    "defaultMessage": "PingPong Worm Bot"
+  },
+  {
+    "id": "gui.extension.PingPongWormBot.description",
+    "description": "Description for the 'worm bot' extension",
+    "defaultMessage": "Programming Worm Bot"
+  },
+  {
+    "id": "gui.extension.PingPongDrawingBot.name",
+    "description": "Name for the PingPongDrawingBot extension",
+    "defaultMessage": "PingPong Drawing Bot"
+  },
+  {
+    "id": "gui.extension.PingPongDrawingBot.description",
+    "description": "Description for the 'drawing bot' extension",
+    "defaultMessage": "Programming Drawing Bot"
+  },
+  {
+    "id": "gui.extension.PingPongCrawlingBot.name",
+    "description": "Name for the PingPongCrawlingBot extension",
+    "defaultMessage": "PingPong Crawling Bot"
+  },
+  {
+    "id": "gui.extension.PingPongCrawlingBot.description",
+    "description": "Description for the 'crawling bot' extension",
+    "defaultMessage": "Programming Crawling Bot"
+  },
+  {
+    "id": "gui.extension.PingPongG1i.name",
+    "description": "Name for the PingPongG1i extension",
+    "defaultMessage": "PingPong One Cube"
+  },
+  {
+    "id": "gui.extension.PingPongG1i.description",
+    "description": "Description for the 'G1i' extension",
+    "defaultMessage": "Programming One Cube"
+  },
+  {
+    "id": "gui.extension.PingPongG2i.name",
+    "description": "Name for the PingPongG2i extension",
+    "defaultMessage": "PingPong Two Cubes"
+  },
+  {
+    "id": "gui.extension.PingPongG2i.description",
+    "description": "Description for the 'PingPong G2i' extension",
+    "defaultMessage": "Programming Two Cubes"
+  },
+  {
+    "id": "gui.extension.PingPongG3i.name",
+    "description": "Name for the PingPongG3i extension",
+    "defaultMessage": "PingPong Three Cubes"
+  },
+  {
+    "id": "gui.extension.PingPongG3i.description",
+    "description": "Description for the 'PingPong G3i' extension",
+    "defaultMessage": "Programming Three Cubes"
+  },
+  {
+    "id": "gui.extension.PingPongG4i.name",
+    "description": "Name for the PingPongG4i extension",
+    "defaultMessage": "PingPong Four Cubes"
+  },
+  {
+    "id": "gui.extension.PingPongG4i.description",
+    "description": "Description for the 'PingPong G4i' extension",
+    "defaultMessage": "Programming Four Cubes"
+  }
+]
