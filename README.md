@@ -10,8 +10,8 @@ This requires you to have Git and Node.js installed.
 ```
 If you want to edit/play yourself:
 ```bash
-git clone https://github.com/LLK/scratch-gui.git
-cd scratch-gui
+git clone https://github.com/Fecan2012/PingpongScratch.git
+cd PingpongScratch
 npm install
 ```
 
